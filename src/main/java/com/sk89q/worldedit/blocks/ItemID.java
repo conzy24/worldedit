@@ -157,6 +157,11 @@ public final class ItemID {
     public static final int FIRE_CHARGE = 385;
     @Deprecated public static final int GOLD_RECORD = 2256; // deprecated, but leave it there
     @Deprecated public static final int GREEN_RECORD = 2257; // deprecated, but leave it there
+    public static final int REDWOOL = 35:14;
+    public static final int GREENWOOL = 35:5;
+    public static final int DARKGREENWOOL = 35:13;
+    public static final int BLUEWOOL = 35:11; //we need to add more wools
+    public static final int BLACKWOOL = 35:15;
     public static final int DISC_13 = 2256;
     public static final int DISC_CAT = 2257;
     public static final int DISC_BLOCKS = 2258;
